@@ -1,11 +1,9 @@
 # Folding At Home Banano Pi
 Earn Banano with Folding at Home
 
-<br>
-<br>
-Check also our YouTube channel for instructions and other related information [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
-<br>
-If you had fun with the projects, please consider giving us a Super Thanks on YouTube or buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee").
+Check also our [YouTube](https://www.youtube.com/@bloxylabs "YouTube") channel for instructions and other related information.
+
+If you had fun with the projects, please consider giving us a Super Thanks on YouTube or buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee") ☕.
 
 
 **Command to update the OS:**
